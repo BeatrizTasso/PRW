@@ -1,0 +1,14 @@
+<?php
+
+
+$str = "   IFSP Birigui  ";
+
+echo "Tamanho: " . strlen($str) . PHP_EOL;
+
+$str = trim($str);
+
+echo "Tamanho: " . strlen($str) . PHP_EOL;
+
+echo $str;
+    ?>
+                 
