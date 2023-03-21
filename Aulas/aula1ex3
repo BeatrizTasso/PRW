@@ -1,0 +1,8 @@
+<?php
+
+$data = date('d/m/Y');
+$dia = substr($data,0,12);
+
+echo "Dia: ". $dia .PHP_EOL;
+    ?>
+                 
