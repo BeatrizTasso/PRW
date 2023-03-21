@@ -1,0 +1,21 @@
+<?php
+
+//$data = date('d/m/Y');
+
+$srt = "IFSP CAMPUS BIRIGUI";
+
+
+$a = "ifsp sao paulo";
+
+//echo $data . PHP_EOL;
+//$s = explode(" ", "IFSP CAMPUS BIRIGUI");
+
+//for($i = 0; $i < count($s); $i++)
+
+//echo $s[$i] . PHP_EOL;
+
+echo strtolower($srt);
+echo("\n");
+echo strtoupper($a);
+    ?>
+                 
